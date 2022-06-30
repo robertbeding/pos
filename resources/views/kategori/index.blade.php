@@ -2,12 +2,12 @@
 @extends('layouts.master')
 
 @section('title')
-    Kategori
+    Kategori cipta
 @endsection
 
 @section('breadcrumb')
     @parent
-    <li class="breadcrumb-item active">Kategori</li>    
+    <li class="breadcrumb-item active">bangsat</li>    
 @endsection
 
 @section('content')
