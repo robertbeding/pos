@@ -1,7 +1,7 @@
 @extends('layouts.master')
 
 @section('title')
-    Dasboard
+    Dasboard cipta
 @endsection
 
 @section('breadcrumb')
