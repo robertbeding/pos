@@ -1,7 +1,7 @@
 @extends('layouts.master')
 
 @section('title')
-dashboard
+dashboard Robert
 @endsection
 
 @section('breadcrumb')
