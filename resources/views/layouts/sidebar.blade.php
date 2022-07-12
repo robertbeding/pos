@@ -20,7 +20,7 @@
             </a>
           </li>
           <li>
-            <a href="components-accordion.html">
+            <a href="{{ route('produk.index') }}">
               <i class="bi bi-circle"></i><span>Produk</span>
             </a>
           </li>
